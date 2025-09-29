@@ -3,14 +3,14 @@
 
 A modern, full-stack platform to create, manage, and attend events with ease. This application offers real-time features, role-based access, and a responsive, user-friendly interface for both event organizers and attendees.
 
---
+----
 🌐 Live Demo
 
 Frontend: https://chimerical-smakager-36e645.netlify.app/
 
 Backend API: https://revamped-event-creation-and-management-1epd.onrender.com
 
---
+----
 ✨ Features
 
 👤 Role-based Access: Organizer and attendee experiences
